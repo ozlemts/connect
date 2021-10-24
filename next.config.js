@@ -1,5 +1,5 @@
 // next.config.js
 module.exports = {
-  webpack5: false,
+  webpack5: true,
   trailingSlash: true,
 }
