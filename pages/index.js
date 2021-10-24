@@ -22,7 +22,7 @@ export default function Home() {
             <div className="py-6">
               <Image alt={`image info`} src={tired_woman} width={330} height={300}/>
             </div>
-            <p className="text-4xl my-8">As a working mum, I'm feeling ... right now.</p>
+            <p className="text-4xl my-8">As a working mom, I'm feeling ... right now.</p>
             <div className="flex justify-center items-center flex-wrap">
               <button
                 className="w-48 text-center bg-purple-600 hover:bg-purple-700 text-white text-lg leading-6 font-semibold py-3 px-6 border border-transparent rounded-xl focus:ring-2 focus:ring-offset-2 focus:ring-offset-white focus:ring-purple-700 focus:outline-none transition-colors duration-200 m-4"
