@@ -1,6 +1,6 @@
-import Logo from "@/components/Logo";
+import Logo from "../components/Logo";
 import Link from "next/link";
-import Menu from "@/components/Menu";
+import Menu from "../components/Menu";
 import { useRouter } from "next/router";
 import React, { useState } from "react";
 
