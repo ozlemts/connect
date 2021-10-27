@@ -36,11 +36,14 @@ function Support({category}) {
       sentence: 'I see you there mama, trying your best. I see you showing up each day, even though you feel exhausted. I see you making tough choices for your family even when you are not sure if you are right. I see you working tirelessly, even when it feels never ending. I see you doing an amazing job, even though your doubt yourself. I see you mama, and you are more than enough.',
       categories: ['unsuccessful', 'exhausted', 'notEnough', 'disconnected']
     }, {
-      sentence: 'a',
+      sentence: '‘There’s something really empowering about going, ‘Hell, I can do this! I can do this all!’ That’s the wonderful thing about mothers, you can because you must, and you just do.’ – Kate Winslet',
       categories: ['unsuccessful', 'exhausted', 'notEnough', 'disconnected']
     }, {
-      sentence: 'b',
-      categories: ['unsuccessful', 'exhausted', 'notEnough', 'disconnected']
+      sentence: 'Some days you’ll be a rock star employee. Some days you’ll be a rock star mama. And some days you’ll be a rock star at both',
+      categories: ['unsuccessful']
+    },{
+      sentence: 'Shout out to working moms. You’re doing your best. Even when you think you’re at your worst.',
+      categories: ['unsuccessful','notEnough']
     },
   ]
 
